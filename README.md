@@ -4,11 +4,13 @@ Alexa Skills
 (https://developer.amazon.com/docs/ask-overviews/build-skills-with-the-alexa-skills-kit.html)
 
 A skill is an app available for alexa's users ( https://alexa.amazon.com/spa/index.html ) 
+
 Available skill types:
-    -Custom Skills (custom interaction model)
-    -Smart Home Skills
-    -Flash Briefing Skills
-    -Video Skills
+
+- Custom Skills (custom interaction model)
+- Smart Home Skills
+- Flash Briefing Skills
+- Video Skills
 
 The skill determines how words and phrases are interpreted by alexa an it's relation to code execution. 
 In the case of smarthome skills, the interaction model and utterances are fixed 
@@ -18,8 +20,9 @@ In the case of smarthome skills, the interaction model and utterances are fixed
 
 
 Implementing a skill:
-	- amazon lambda function
-	- webservices (custom skill only)
+
+- amazon lambda function
+- webservices (custom skill only)
 
 Smarthome skill:
 
